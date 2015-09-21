@@ -17,8 +17,8 @@
 
 			args.setPromise(WinJS.UI.processAll().then(completed));
 
+            // for readibility we change the code of the inline function 
 		
-
 		}
 	};
 
